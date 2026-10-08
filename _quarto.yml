@@ -1,0 +1,24 @@
+project:
+  type: default
+  output-dir: docs        # GitHub Pages puede publicar desde /docs
+
+lang: es
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-title: "Contenido"
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
+    code-link: true
+    df-print: paged
+    embed-resources: false
+    fig-align: center
+
+execute:
+  freeze: auto            # no vuelve a ejecutar el código si el .qmd no cambió
+  warning: false
+  message: false

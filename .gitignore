@@ -1,0 +1,22 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Capas descargadas con geodata (pesadas; cada quien las descarga)
+datos/climate/
+datos/elevation/
+datos/gadm/
+*.tif
+*.zip
+
+
+# Quarto
+/.quarto/
+index_files/
+*_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
