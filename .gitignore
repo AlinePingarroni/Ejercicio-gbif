@@ -20,3 +20,4 @@ index_files/
 # Sistema
 .DS_Store
 Thumbs.db
+_freeze/

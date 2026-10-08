@@ -2,7 +2,7 @@
 title: "Datos de GBIF y WorldClim en R"
 subtitle: "Ocurrencias, limpieza y espacio climático de dos anfibios mexicanos"
 author: "Daniel Auliz-Ortiz y Aline Pingarroni"
-date: "2025-10-21"
+date: "2026-10-08"
 date-modified: last-modified
 description: "Lección práctica para descargar, depurar y analizar registros de GBIF con rgbif, y extraer variables climáticas de WorldClim con geodata y terra."
 ---
